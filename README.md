@@ -34,7 +34,7 @@ submitted files: Required
 base files: Not Required
 are submissions by directory: not required
 
-### Supported Langauges:
+### List Supported Langauges with JSON Schema
 
 - Sort alphabetically
 - Put in external file
