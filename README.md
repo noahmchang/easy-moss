@@ -3,7 +3,7 @@
 A Wrapper for MOSS to make submissions downloaded from Prairie Learn easy.
 
 * You must download the shell script from Stanford's Moss project to use this program.
-Adjust all values in moss.json according to how your homework directories are set up. Then, simply call "python3.10 easy-moss.py <directory of moss.json>".
+Adjust all values in moss.json according to how your homework directories are set up. Then, simply call "python3.10 easy-moss.py [directory of moss.json]".
 
 ## Issues/Notes:
 
