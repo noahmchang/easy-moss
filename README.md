@@ -1,6 +1,6 @@
 # Easy Moss
 
-A Wrapper for MOSS to make submissions downloaded from Prairie Learn easy :)
+A Wrapper for MOSS to make submissions downloaded from Prairie Learn easy.
 
 ## Issues/Notes:
 
@@ -8,9 +8,9 @@ Listed are the current issues with the code, along with notes on how to fix them
 
 ### Zip files not accounted for
 
-- Unzip before going through files, this will create a new file
+- Unzip before going through files, this will create a new file.
 - -d might require all folders to be flattened (give different names to files w/ same name)
-- -d might require all files to be in one folder (shutil)
+- -d might require all files to be in one folder. (shutil)
 - chain maps: if not in child, looks in parent.
 
 #### -----GLOBAL-----
